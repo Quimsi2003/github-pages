@@ -73,3 +73,91 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+/* Estils generals */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffcc00;
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 30px;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.aula {
+    margin-bottom: 30px;
+}
+
+.aula img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.activitat {
+    margin-bottom: 30px;
+}
+
+.activitat img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Enllaços de contacte i xarxes socials */
+a {
+    color: #ffcc00;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
